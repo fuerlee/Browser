@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>CustomBorder.qml</file>
+        <file>TabComponent.qml</file>
+        <file>SiteLoadingError.qml</file>
+    </qresource>
+</RCC>
